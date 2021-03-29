@@ -27,7 +27,7 @@ Se tienen 3 archivos en formato xlsx con información referente a las tablas men
 
 Las preguntas  y respuestas del análisis se muestran directamente en el código del desafío.  
 
-### `Flujo de trabajo de un Data Scientist`  
+### `Flujo de trabajo del análisis a realizar por el Data Scientist`  
 
 ![image](https://user-images.githubusercontent.com/7356067/112855446-2de58a00-9085-11eb-8049-ac6167d36c50.png)
 
