@@ -1,8 +1,8 @@
 # Mobpatec_challenge
 
-Curso: UDEMY Data Science con Python - Numpy & Pandas [2021]  
-`Caso práctico 1`: Análisis y Ciencia de Datos con Python - Numpy &amp; Pandas  
-Estudiante: José Miguel Molina
+`Curso:` UDEMY Data Science con Python - Numpy & Pandas [2021]  
+`Caso práctico 1:` Análisis y Ciencia de Datos con Python - Numpy &amp; Pandas  
+`Estudiante:` José Miguel Molina
 
 ## Descripción
 
