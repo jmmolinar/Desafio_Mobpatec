@@ -29,5 +29,7 @@ Las preguntas  y respuestas del análisis se muestran directamente en el código
 
 ### `Flujo de trabajo del análisis a realizar por el Data Scientist`  
 
-![image](https://user-images.githubusercontent.com/7356067/112855446-2de58a00-9085-11eb-8049-ac6167d36c50.png)
+![image](https://user-images.githubusercontent.com/7356067/112855446-2de58a00-9085-11eb-8049-ac6167d36c50.png)  
 
+`En éste Caso Práctico 1, nos enfocamos en los pasos 1,2,3 y 5.`  
+### `El paso de visualizaciones se puede observar en mi repositorio` [Mobpatec_challenge_B](https://github.com/jmmolinar/Mobpatec_challenge_B)
